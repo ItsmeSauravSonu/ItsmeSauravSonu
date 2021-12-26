@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Frontend-Web Development(React JS)**
 
--
-
 - 💬 Ask me about **Data Structures & Algorithms**
 
 - 📫 How to reach me **sauravsonu2310@gmail.com**
