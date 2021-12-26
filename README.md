@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/saurav_s07" target="blank"><img src="https://img.shields.io/twitter/follow/saurav_s07?logo=twitter&style=for-the-badge" alt="saurav_s07" /></a> </p>
 
-- 🌱 I’m currently learning **react.js and Node.js**
+- 🌱 I’m currently learning **Frontend-Web Development(React JS)**
 
-- 📝 I regularly write articles on [agiletech.substack.com](agiletech.substack.com)
+-
 
 - 💬 Ask me about **Data Structures & Algorithms**
 
